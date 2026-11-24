@@ -7,6 +7,7 @@ tags:
     - Zephyr RTOS
     - Hardware
     - Firmware
+classes: wide
 ---
 
 Quadcopter flight controller (Hardware & Firmware)
