@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Personal projects
 layout: collection
 collection: projects
 entries_layout: grid
@@ -7,4 +7,4 @@ classes: wide
 author_profile: true
 ---
 
-This is a selection of private and commercial projects I've had a chance to work on recently.
+This is a selection of my personal projects I've been working on recently.

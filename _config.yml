@@ -107,11 +107,8 @@ author:
   avatar           :
   bio              : "Embedded systems engineer"
   location         : "Wroclaw, Poland"
-  email            :
+  email            : "marek@metelski.dev"
   links:
-    - label: "marek@metelski.dev"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:marek@metelski.dev"
     - label: "metelski.dev"
       icon: "fas fa-fw fa-link"
       url: "https://www.metelski.dev"
